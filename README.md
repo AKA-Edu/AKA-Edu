@@ -13,10 +13,10 @@ Estudante De Programação Focado Em Back-End e Automação com n8n.<br><br>Futu
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=AKA-Edu&theme=neon&hide_border=false" height="180"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AKA-Edu&theme=neon&hide_border=false"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
