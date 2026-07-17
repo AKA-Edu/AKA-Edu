@@ -5,18 +5,18 @@ Estudante De Programação Focado Em Back-End e Automação com n8n.<br><br>Futu
 
 ## 💻 HABILIDADES COM:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,mysql,postgres,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,postgres,docker,git,github,vscode" />
 </p>
 <br><br>
 
 ###
 <h1 align="center">📊 GitHub Stats</h1>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=AKA-Edu&theme=neon&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=AKA-Edu&theme=neon&hide_border=false" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </p>
