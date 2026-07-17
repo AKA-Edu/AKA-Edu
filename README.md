@@ -5,7 +5,7 @@ Estudante De Programação Focado Em Back-End e Automação com n8n.<br><br>Futu
 
 ## 💻 HABILIDADES COM:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,postgres,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,docker,git,github,vscode" />
 </p>
 <br><br>
 
