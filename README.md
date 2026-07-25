@@ -20,3 +20,5 @@ Estudante De Programação Focado Em Back-End e Automação com n8n.<br><br>Futu
 <p align="center">
   <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKA-Edu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
+
+![Snake animation](https://github.com/mflilian/mflilian/blob/output/github-contribution-grid-snake.svg)
